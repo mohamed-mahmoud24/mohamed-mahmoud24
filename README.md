@@ -7,7 +7,7 @@
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/mohammed-mahmod/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-    <a href="https://wa.me/message/PYDSDR5GD7MVJ1"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=whatsapp" /></a>
+    <a href="https://wa.me/201021445653"><img src="https://img.shields.io/badge/whatsapp-0088cc?style=flat&logo=whatsapp" /></a>
 </div>
 
 <h1 align="center">About</h1>
